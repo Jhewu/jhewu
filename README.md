@@ -1,16 +1,17 @@
 
           %+++++++++++%            **Junyi@He_Wu:** Kurimanju neofetch 
-        %+++++++++++++++%          --------------------------------------------------------------
+        %+++++++++++++++%          ---------------------------------------------------------------
      #...%++++++++++++*:...#       "Hi! I am Junyi, an aspiring *ML Engineer/Researcher* who loves
       +......-%%%%#.......-        applying SOTA technologies to solve complex computer vision
-     %.....................%       problems! Currently, working on a conference publication"
+     %.....................%       problems! I am currently working on a conference publication."
      +......%%.....%%......%       
-     %..##%-....%.=..%%+:..%       **Skills** ---------------------------------------------------
+     %..##%-....%.=..%%+:..%       **Skills** ----------------------------------------------------
       ....................%        Programming:  Python, Java, C#, MATLAB, JavaScript, Scheme
        %.................*         Frameworks:   PyTorch, Tensorflow, Unity, Meta XR, React
-       -:................+         Hobbies:      Photography, Self-Hosting, 
+       -:................+         Hobbies:      Photography, Self-Hosting, Volleyball
        #%...............=%         
-         ...............#          **Links**  ---------------------------------------------------
-         %.............%           Portfolio:    [COMING SOON]
-         #.%          .%           Publications: [https://dl.acm.org/doi/10.1145/3715335.3735455]
-                                   LinkedIn:     [https://www.linkedin.com/in/jhewu/]  
+         ...............#          **Links**  ----------------------------------------------------
+         %.............%           Publications: [https://dl.acm.org/doi/10.1145/3715335.3735455]
+         #.%          .%           Resume:       [COMING SOON]
+                                   
+                              
