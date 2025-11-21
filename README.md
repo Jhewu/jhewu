@@ -1,7 +1,7 @@
 ```
 junyi_he_wu:~$ neofetch
 
-          %+++++++++++%            junyi_he_wu@Karimanju OS
+          %+++++++++++%            junyi_he_wu@Kuri_manju OS
         %+++++++++++++++%          ---------------------------------------------------------------
      #...%++++++++++++*:...#       "Hi! I am Junyi, an aspiring *ML Engineer/Researcher* who loves
       +......-%%%%#.......-        applying SOTA technologies to solve complex computer vision
