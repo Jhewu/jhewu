@@ -14,7 +14,7 @@ junyi_he_wu:~$ neofetch
        #%...............=%         
          ...............#          **Links**  ----------------------------------------------------
          %.............%           Publications: [https://dl.acm.org/doi/10.1145/3715335.3735455]
-         #.%          .%           Resume:       [COMING SOON]
+         #.%          .%           CV:           [WORKING ON IT!]
                                    
 
 ```
