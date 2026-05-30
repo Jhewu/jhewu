@@ -8,7 +8,7 @@ junyi_he_wu:~$ neofetch
      %.....................%       
      +......%%.....%%......%       **Skills** ----------------------------------------------------
      %..##%-....%.=..%%+:..%       Programming:  Python, JavaScript, C#, MATLAB, Java (and more!)
-      ....................%        Frameworks:   PyTorch, LangChain, ReactJS, Flask (and more!)
+      ....................%        Frameworks:   PyTorch, LangChain, React, Flask (and more!)
        %.................*         Hobbies:      Photography, Self-Hosting, Volleyball
        -:................+         
        #%...............=%         **Links**  ----------------------------------------------------
